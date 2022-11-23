@@ -1,1 +1,1 @@
-# ODLC: Open Data Lake Constructor of Specific Domain
+# Panacea: An Universal Framework for Open Data Lakes Construction and Management
