@@ -19,5 +19,5 @@ Paper link: TBA
 2. Execute npm install
 3. Edit connectConfig.js (Object Storage Info, URL, Bucket, Keywords)
 4. node ./metadataManager/init-DB.js (create metadata database for Pancea)
-5. node ./prepare-main.js (set data source and harvest all catalog)
-6. node ./controller-main.js (pre-processing catalogs and migrate real data to datalakes)
+5. node ./prepare_main.js (set data source and prepare harvesting)
+6. node ./controller_main.js (pre-process catalogs and migrate real data file to datalakes)
