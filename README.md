@@ -2,7 +2,7 @@
 
 Goal: Constructing Internet-scale open data lakes (ODLs) of specific domain 
 
-Paper link: TBA
+Paper link: Dasol Kim, Heesun Won, Myeong-Seon Gil, and Yang-Sae Moon, "Panacea: An Automatic Data Migration Framework for Constructing Internet-Scale Open Data Lakes," _Software: Practice and Experience, Vol. 55, Issue 6, June 2025.
 
 ## Quick start
 
